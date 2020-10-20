@@ -7,5 +7,5 @@
 
 ## 모델 생성
 <div>
-<img width="300" src="https://user-images.githubusercontent.com/53610690/96607101-f71b8300-1332-11eb-9577-59572aa601f3.png">
+<img width="320" src="https://user-images.githubusercontent.com/53610690/96607101-f71b8300-1332-11eb-9577-59572aa601f3.png">
 </div>
